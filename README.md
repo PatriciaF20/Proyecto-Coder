@@ -1,9 +1,9 @@
-data-science-template
+Proyecto Coder - Series de Tiempo / Predicción de Ventas
 ==============================
 
-A short description of the project.
+El objetivo de este trabajo es poder implementar un algoritmo predictivo de machine learning que permita conocer de manera precisa las ventas mensuales futuras.
 
-Project Organization
+Organización del Proyecto
 ------------
 
     ├── LICENSE
@@ -17,7 +17,6 @@ Project Organization
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the creator's initials, and a short `-` delimited description, e.g.
